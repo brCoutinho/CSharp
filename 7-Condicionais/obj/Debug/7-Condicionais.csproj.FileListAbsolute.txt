@@ -1,0 +1,6 @@
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.exe.config
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.exe
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\7-Condicionais\bin\Debug\7-Condicionais.pdb
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.exe
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\7-Condicionais\obj\Debug\7-Condicionais.pdb
