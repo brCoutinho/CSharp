@@ -1,0 +1,7 @@
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a10-CalculaPoupanca\bin\Debug\a10-CalculaPoupanca.exe.config
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a10-CalculaPoupanca\bin\Debug\a10-CalculaPoupanca.exe
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a10-CalculaPoupanca\bin\Debug\a10-CalculaPoupanca.pdb
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a10-CalculaPoupanca\obj\Debug\a10-CalculaPoupanca.csprojResolveAssemblyReference.cache
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a10-CalculaPoupanca\obj\Debug\a10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a10-CalculaPoupanca\obj\Debug\a10-CalculaPoupanca.exe
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a10-CalculaPoupanca\obj\Debug\a10-CalculaPoupanca.pdb
