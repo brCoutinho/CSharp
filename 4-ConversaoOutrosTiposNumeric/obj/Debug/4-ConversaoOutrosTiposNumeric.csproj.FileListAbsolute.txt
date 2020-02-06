@@ -1,0 +1,7 @@
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\4-ConversaoOutrosTiposNumeric\bin\Debug\4-ConversaoOutrosTiposNumeric.exe.config
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\4-ConversaoOutrosTiposNumeric\bin\Debug\4-ConversaoOutrosTiposNumeric.exe
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\4-ConversaoOutrosTiposNumeric\bin\Debug\4-ConversaoOutrosTiposNumeric.pdb
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\4-ConversaoOutrosTiposNumeric\obj\Debug\4-ConversaoOutrosTiposNumeric.csproj.CoreCompileInputs.cache
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\4-ConversaoOutrosTiposNumeric\obj\Debug\4-ConversaoOutrosTiposNumeric.exe
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\4-ConversaoOutrosTiposNumeric\obj\Debug\4-ConversaoOutrosTiposNumeric.pdb
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\4-ConversaoOutrosTiposNumeric\obj\Debug\4-ConversaoOutrosTiposNumeric.csprojResolveAssemblyReference.cache
