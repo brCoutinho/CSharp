@@ -1,0 +1,7 @@
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\8-CondicionaisSegundaParte\bin\Debug\8-CondicionaisSegundaParte.exe.config
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\8-CondicionaisSegundaParte\bin\Debug\8-CondicionaisSegundaParte.exe
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\8-CondicionaisSegundaParte\bin\Debug\8-CondicionaisSegundaParte.pdb
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\8-CondicionaisSegundaParte\obj\Debug\8-CondicionaisSegundaParte.csprojResolveAssemblyReference.cache
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\8-CondicionaisSegundaParte\obj\Debug\8-CondicionaisSegundaParte.csproj.CoreCompileInputs.cache
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\8-CondicionaisSegundaParte\obj\Debug\8-CondicionaisSegundaParte.exe
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\8-CondicionaisSegundaParte\obj\Debug\8-CondicionaisSegundaParte.pdb
