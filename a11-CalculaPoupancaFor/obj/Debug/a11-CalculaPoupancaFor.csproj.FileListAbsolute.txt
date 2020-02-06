@@ -1,0 +1,6 @@
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a11-CalculaPoupancaFor\bin\Debug\a11-CalculaPoupancaFor.exe.config
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a11-CalculaPoupancaFor\bin\Debug\a11-CalculaPoupancaFor.exe
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a11-CalculaPoupancaFor\bin\Debug\a11-CalculaPoupancaFor.pdb
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a11-CalculaPoupancaFor\obj\Debug\a11-CalculaPoupancaFor.csproj.CoreCompileInputs.cache
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a11-CalculaPoupancaFor\obj\Debug\a11-CalculaPoupancaFor.exe
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a11-CalculaPoupancaFor\obj\Debug\a11-CalculaPoupancaFor.pdb
