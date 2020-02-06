@@ -1,0 +1,6 @@
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\3-CriandoVariaveisFloat\bin\Debug\3-CriandoVariaveisFloat.exe.config
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\3-CriandoVariaveisFloat\bin\Debug\3-CriandoVariaveisFloat.exe
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\3-CriandoVariaveisFloat\bin\Debug\3-CriandoVariaveisFloat.pdb
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\3-CriandoVariaveisFloat\obj\Debug\3-CriandoVariaveisFloat.csproj.CoreCompileInputs.cache
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\3-CriandoVariaveisFloat\obj\Debug\3-CriandoVariaveisFloat.exe
+D:\ProfileUsers\Windows_7\Documents\development\C#\AprendendoCSharp\3-CriandoVariaveisFloat\obj\Debug\3-CriandoVariaveisFloat.pdb
