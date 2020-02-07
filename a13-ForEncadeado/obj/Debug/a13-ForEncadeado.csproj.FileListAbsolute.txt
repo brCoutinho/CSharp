@@ -1,0 +1,6 @@
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a13-ForEncadeado\bin\Debug\a13-ForEncadeado.exe.config
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a13-ForEncadeado\bin\Debug\a13-ForEncadeado.exe
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a13-ForEncadeado\bin\Debug\a13-ForEncadeado.pdb
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a13-ForEncadeado\obj\Debug\a13-ForEncadeado.csproj.CoreCompileInputs.cache
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a13-ForEncadeado\obj\Debug\a13-ForEncadeado.exe
+d:\ProfileUsers\Windows_7\documents\development\C#\AprendendoCSharp\a13-ForEncadeado\obj\Debug\a13-ForEncadeado.pdb
